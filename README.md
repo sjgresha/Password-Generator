@@ -6,4 +6,4 @@ I have made a password generator using JavaScript, HTML, and CSS. When the user 
 ## Deployment Links
 Github - https://github.com/sjgresha/Password-Generator
 
-Deployment - https://sjgresha.github.io/Password-Generator/
+Deployment - https://sjgresha.github.io/Password-Generator/Develop/index.html
